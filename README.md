@@ -4,7 +4,7 @@
 
 # Материал репозитория:
 
-## *1 часть*
+# *1 часть*
 
 ## 1. [Сайт](./Site/)
 
@@ -12,9 +12,9 @@
 
 ## 3. [Работа с Mermaid](https://github.com/gnikita777fool-pixel/Mermaid)
 
-## 4. [Самостоятельная работа 20 заданий](./Pople/README.md)
+## 4. [Самостоятельная работа 20 заданий](https://github.com/gnikita777fool-pixel/-20-)
 
-## 5. [Работа DokcerFIle C++ Qt5 Qt6 ](./Dockermission)
+## 5. [Работа DokcerFIle C++ Qt5 Qt6 ](https://github.com/gnikita777fool-pixel/DokcerFIle-C-Qt5-Qt6)
 
 ---
 
