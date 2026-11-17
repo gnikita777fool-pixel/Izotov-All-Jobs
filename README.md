@@ -58,23 +58,23 @@
 
 ### 1.2 [SQL](https://github.com/gnikita777fool-pixel/SQL)
 
-### 1.3 [SQL](https://github.com/gnikita777fool-pixel/SQL-2)
+### 1.3 [SQL-2](https://github.com/gnikita777fool-pixel/SQL-2)
 
-### 1.4 [SQL](https://github.com/gnikita777fool-pixel/View-SQL)
+### 1.4 [SQL-View](https://github.com/gnikita777fool-pixel/View-SQL)
 
-### 1.5 [SQL](https://github.com/gnikita777fool-pixel/SQL-Product)
+### 1.5 [SQL-Product](https://github.com/gnikita777fool-pixel/SQL-Product)
 
-### 1.6 [SQL](https://github.com/gnikita777fool-pixel/SQL-Normalization)
+### 1.6 [SQL-Normalization](https://github.com/gnikita777fool-pixel/SQL-Normalization)
 
-### 1.7 [SQL](https://github.com/gnikita777fool-pixel/SQL-Normalization-1)
+### 1.7 [SQL-Normalization-1](https://github.com/gnikita777fool-pixel/SQL-Normalization-1)
 
-### 1.8 [SQL](https://github.com/gnikita777fool-pixel/SQL-Normalization-2)
+### 1.8 [SQL-Normalization-2](https://github.com/gnikita777fool-pixel/SQL-Normalization-2)
 
-### 1.9 [SQL](https://github.com/gnikita777fool-pixel/SQL-Normalization-3)
+### 1.9 [SQL-Normalization-3](https://github.com/gnikita777fool-pixel/SQL-Normalization-3)
 
-### 1.10 [SQL](https://github.com/gnikita777fool-pixel/SQL-Normalization-4)
+### 1.10 [SQL-Normalization-4](https://github.com/gnikita777fool-pixel/SQL-Normalization-4)
 
-### 1.11 [SQL](https://github.com/gnikita777fool-pixel/SQL-Normalization-5)
+### 1.11 [SQL-Normalization-5](https://github.com/gnikita777fool-pixel/SQL-Normalization-5)
 ---
 
 Ссылка на **GitFlic** Александр Александровича - *https://gitflic.ru/project/rurewa/mfua*
