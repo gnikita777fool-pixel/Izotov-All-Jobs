@@ -2,13 +2,15 @@
 
 ## Бакшилов Никита Михайлович ИПО8482
 
+---
+
 # Материал репозитория:
 
 # *1 часть*
 
-## 1. [Сайт](./Site/)
+## 1. [Сайт](https://github.com/gnikita777fool-pixel/Site)
 
-## 2. [Работа и история Docker](./Docker/)
+## 2. [Работа и история Docker](https://github.com/gnikita777fool-pixel/Izotov/tree/main/Docker)
 
 ## 3. [Работа с Mermaid](https://github.com/gnikita777fool-pixel/Mermaid)
 
@@ -75,6 +77,7 @@
 ### 1.10 [SQL-Normalization-4](https://github.com/gnikita777fool-pixel/SQL-Normalization-4)
 
 ### 1.11 [SQL-Normalization-5](https://github.com/gnikita777fool-pixel/SQL-Normalization-5)
+
 ---
 
 Ссылка на **GitFlic** Александр Александровича - *https://gitflic.ru/project/rurewa/mfua*
